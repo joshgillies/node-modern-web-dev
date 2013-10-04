@@ -42,7 +42,8 @@ the two modules required for this are listed below:
 - [sqlite3][3]
 - [persist][4]
 
-Don't forget to add the above as dependencies of your app!
+Don't forget to add the above as dependencies of your app, npm can help you automate
+this!
 
 
 [1]: https://github.com/visionmedia/express
