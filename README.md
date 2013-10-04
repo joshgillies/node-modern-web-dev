@@ -26,7 +26,7 @@ This process bootstraps a new project for you with session support. Other option
 can be passed to express at this stage to further configure your new app. Check the
 help docs for more info.
 
-With your new app bootsrapped move into the director and run the following:
+With your new app bootstrapped move into the director and run the following:
 
 ```
 $ npm install
@@ -35,12 +35,14 @@ $ npm install
 This will install the all required dependencies for your app. Get to know npm
 it's your friend.
 
-Some final recommended steps incolve installing a database driver for your app,
+Some final recommended steps involve installing a database driver for your app,
 the two modules required for this are listed below:
 
 
 - [sqlite3][3]
 - [persist][4]
+
+Don't forget to add the above as dependencies of your app!
 
 
 [1]: https://github.com/visionmedia/express
